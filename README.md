@@ -1,1 +1,1 @@
-ReciprocalDictionary.jl
+ReciprocalDictionaries.jl
